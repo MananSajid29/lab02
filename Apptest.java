@@ -10,9 +10,13 @@ public class Apptest{
         
         
           s1.display();
+          System.out.println("=======");
           s2.display();
+          System.out.println("=======");
           s3.display();
+          System.out.println("=======");
           s4.display();
+          System.out.println("=======");
           s5.display();
 }
 }
